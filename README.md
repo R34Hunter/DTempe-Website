@@ -1,10 +1,10 @@
 <h1 align="center">
-D' Tempe Website
+D' Tempe Website Source Code
 <h1 align="center">
     <img src="https://media.discordapp.net/attachments/762858115182886945/937983482733400104/IMG-20220131-WA0127.jpg">
 </h1>
 
-<h1><b>Program Description</b></h1>
+<h1><b>Program Descriptions</b></h1>
 
 <p>Website D' Tempe dibuat secara gratis. Dibuat untuk memenuhi tugas Kewirausahaan Berbasis
 Teknologi yang diampu oleh dosen Syaifuddin, S.Kom, M.Kom.
