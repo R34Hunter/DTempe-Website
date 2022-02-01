@@ -39,5 +39,5 @@ Untuk instalasi, kami harus memiliki beberapa plugin yang dibutuhkan untuk menja
     - [Irham Soetomo Handayanto 2020-078](https://github.com/R34Hunter)
     - [Wisnu Prayogo Kusumo 2020-096](https://lms.umm.ac.id/user/view.php?id=3175&course=28189)
 - Kewirausahaan Berbasis Teknologi
-- Universitas Muhammadiyah Malang
 - Syaifuddin, S.Kom, M.Kom
+- Universitas Muhammadiyah Malang
