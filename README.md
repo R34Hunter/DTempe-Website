@@ -1,5 +1,5 @@
 <h1 align="center">
-D' Tempe Website Source Code
+D' Tempe Website & Source Code
 <h1 align="center">
     <img src="https://media.discordapp.net/attachments/762858115182886945/937983482733400104/IMG-20220131-WA0127.jpg">
 </h1>
