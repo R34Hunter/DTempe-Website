@@ -14,4 +14,30 @@ Keripik tempe kekinian modern merupakan produk yang dibuat oleh D’ Tempe sebag
 <h1><b>Features</b></h1>
         
 - Plugins & Usage
-    - 
+    - [WordPress](https://wordpress.org/)
+        <p>Kami menggunakan WordPress sebagai basic dari pembuatan website.</p>
+    - [Custom JavaScript & CSS](https://www.niagahoster.co.id/blog/custom-javascript-dan-css-di-wordpress/)
+        <p>Dengan CSS dan JavaScript, kami dapat membuat sebuah tampilan desain website semenarik mungkin.</p>
+    - [HTML for WordPress](https://wpbuffs.com/edit-source-code-in-wordpress/)
+        <p>Kami menggunakan HTML untuk membuat dan menyusun halaman website.</p>
+    - [MySQL](https://www.wpbeginner.com/glossary/mysql/#:~:text=WordPress%20requires%20MySQL%20to%20store,web%20applications%20such%20as%20WordPress.)
+        <p>Kami menggunakan MySQL sebagai alat untuk membuat dan menyimpan database ke dalam web, serta untuk web hosting.</p>
+    
+<h1><b>Installation</h1></b>
+Untuk instalasi, kami harus memiliki beberapa plugin yang dibutuhkan untuk menjalankan wordpress sebagai awal proses pembuatan website.
+    
+<h1><b>Configuration</h1></b>
+
+- [WordPress](https://blog.hubspot.com/marketing/wordpress-website)
+- [Add Custom JavaScript & CSS Plug-ins](https://blog.hubspot.com/marketing/wordpress-website)
+- [Configure MySQL Databases](https://www.wpbeginner.com/beginners-guide/beginners-guide-to-wordpress-database-management-with-phpmyadmin/)
+    
+<h1><b>Copyright</b></h1>
+    
+- <b>D' Tempe Company</b>
+    - [Danny Ferdiansyah 2020-074](https://lms.umm.ac.id/user/view.php?id=3109&course=28189)
+    - [Irham Soetomo Handayanto 2020-078](https://github.com/R34Hunter)
+    - [Wisnu Prayogo Kusumo 2020-096](https://lms.umm.ac.id/user/view.php?id=3175&course=28189)
+- Kewirausahaan Berbasis Teknologi
+- Universitas Muhammadiyah Malang
+- Syaifuddin, S.Kom, M.Kom
