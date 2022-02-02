@@ -12,7 +12,10 @@ Teknologi yang diampu oleh dosen Syaifuddin, S.Kom, M.Kom.
 Keripik tempe kekinian modern merupakan produk yang dibuat oleh D’ Tempe sebagai inovasi keripik tempe yang modern. Hal ini bertujuan agar masyarakat tidak menganggap keripik tempe hanya sekedar makanan ringan tradisional semata. Tetapi, keripik tempe merupakan makanan yang mempunyai kandungan gizi yang tinggi dan dapat bersaing dengan jajanan maupun makanan modern lainnya. Pembuatan website ini bertujuan agar konsumen dapat dengan mudah membeli produk melalui website yang telah dibuat.</p>
 
 <h1><b>Features</b></h1>
-        
+  
+- Themes
+    - [Ridhi Themes](https://wordpress.org/themes/ridhi/)
+        <p>Kami menggunakan "Ridhi" sebagai tema dari WordPress yang telah kami buat.</p> 
 - Plugins & Usage
     - [WordPress](https://wordpress.org/)
         <p>Kami menggunakan WordPress sebagai basic dari pembuatan website.</p>
